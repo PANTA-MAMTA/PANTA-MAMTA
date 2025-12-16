@@ -1,6 +1,9 @@
 
 
-<h1 align="center">Hi 👋, I'm Mamata Pant</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PANTA-MAMTA&show_icons=true&theme=tokyonight" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Software+Developer;QA+Enthusiast;Fast+Learner;Quality+Focused&center=true&width=520&height=45">
