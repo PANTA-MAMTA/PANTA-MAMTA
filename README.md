@@ -16,15 +16,15 @@ Fast learner • Quality focused • Curious mind
 ## 🧠 Skill Level Overview (Junior / Beginner)
 
 ### 💻 Programming & Frameworks
-![PHP](https://img.shields.io/badge/PHP%20(Laravel)-70%25-green?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-50%25-yellow?style=for-the-badge)
-![React](https://img.shields.io/badge/React-40%25-orange?style=for-the-badge)
-![React Native](https://img.shields.io/badge/React%20Native-40%25-orange?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-45%25-yellow?style=for-the-badge)
+- ![PHP](https://img.shields.io/badge/PHP%20(Laravel)-informational?style=for-the-badge&logo=php)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript)
+- ![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react)
+- ![React Native](https://img.shields.io/badge/React%20Native-informational?style=for-the-badge&logo=react)
+- ![Node.js](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js)
 
 ### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-65%25-green?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-55%25-yellow?style=for-the-badge)
+- ![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb)
 
 ### 🧪 QA & Testing (Beginner)
 - Manual Testing  
@@ -34,11 +34,11 @@ Fast learner • Quality focused • Curious mind
 - Automation Testing Basics  
 
 ### 🛠 Tools & Workflow (Basic Knowledge)
-![GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-informational?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS%20Code-informational?style=for-the-badge&logo=visual-studio-code)
-![npm](https://img.shields.io/badge/npm-informational?style=for-the-badge&logo=npm)
-![Vite](https://img.shields.io/badge/Vite-informational?style=for-the-badge&logo=vite)
+- ![GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-informational?style=for-the-badge&logo=github)
+- ![Postman](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=postman)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-informational?style=for-the-badge&logo=visual-studio-code)
+- ![npm](https://img.shields.io/badge/npm-informational?style=for-the-badge&logo=npm)
+- ![Vite](https://img.shields.io/badge/Vite-informational?style=for-the-badge&logo=vite)
 
 ---
 
