@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Software+Developer;QA+Enthusiast;Fast+Learner;Quality+Focused&center=true&width=520&height=45">
 </p>
-
+<h2 align="center">Hello 👋, I'm Mamata Pant</h2>
 <h3 align="center">Junior Software Developer | QA Enthusiast</h3>
 
 <p align="center">
