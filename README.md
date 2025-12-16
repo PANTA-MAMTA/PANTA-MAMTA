@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" 
-       alt="Mamata Pant"
-       width="150"
-       style="border-radius:50%;" />
-</p>
 
-<h1 align="center">Hi 👋, I'm Mamata Pant</h1>
 
 <h1 align="center">Hi 👋, I'm Mamata Pant</h1>
 
