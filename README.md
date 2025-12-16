@@ -7,7 +7,7 @@
 <h3 align="center">Junior Software Developer | QA Enthusiast</h3>
 
 <p align="center">
-📍 Nepal <br>
+  Nepal <br>
 Fast learner • Quality focused • Curious mind
 </p>
 
