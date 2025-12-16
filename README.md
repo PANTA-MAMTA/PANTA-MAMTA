@@ -22,13 +22,9 @@ Fast learner • Quality focused • Curious mind
 ![React Native](https://img.shields.io/badge/React%20Native-40%25-orange?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-45%25-yellow?style=for-the-badge)
 
----
-
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-65%25-green?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-55%25-yellow?style=for-the-badge)
-
----
 
 ### 🧪 QA & Testing (Beginner)
 - Manual Testing  
@@ -36,8 +32,6 @@ Fast learner • Quality focused • Curious mind
 - Bug Reporting  
 - QA Fundamentals  
 - Automation Testing Basics  
-
----
 
 ### 🛠 Tools & Workflow (Basic Knowledge)
 ![GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-informational?style=for-the-badge&logo=github)
@@ -74,11 +68,21 @@ Fast learner • Quality focused • Curious mind
 
 ---
 
-✨ *Growing as a developer and QA tester, improving every day.*
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PANTA-MAMTA/PANTA-MAMTA/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
+
+## 🎉 Fun Section
+
+- ⚡ **Motto:** “Eat, Sleep, Code, Test, Repeat!”  
+- 😂 **Random Dev Joke:** Why do programmers prefer dark mode? Because light attracts bugs!  
+- 🕹️ **Fun Fact:** I once spent 3 hours debugging… just because a semicolon was missing!  
+- 🎵 **Music while coding:** Lo-fi beats & coffee ☕  
+
+---
+
+✨ *Growing as a developer and QA tester, improving every day.*
