@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Software+Developer;Mamata Pant;QA+Enthusiast;Fast+Learner;Quality+Focused&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Software+Developer;QA+Enthusiast;Fast+Learner;Quality+Focused&center=true&width=520&height=45">
 </p>
 
 <h3 align="center">Junior Software Developer | QA Enthusiast</h3>
