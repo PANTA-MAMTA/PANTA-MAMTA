@@ -13,7 +13,7 @@ Fast learner • Quality focused • Curious mind
 
 ---
 
-## 🧠 Skill Level Overview (Junior Level)
+## 🧠 Skill Level Overview (Junior / Beginner)
 
 ### 💻 Programming & Frameworks
 ![PHP](https://img.shields.io/badge/PHP%20(Laravel)-70%25-green?style=for-the-badge)
@@ -30,21 +30,21 @@ Fast learner • Quality focused • Curious mind
 
 ---
 
-### 🧪 QA & Testing
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-70%25-green?style=for-the-badge)
-![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-65%25-green?style=for-the-badge)
-![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-65%25-green?style=for-the-badge)
-![QA Fundamentals](https://img.shields.io/badge/QA%20Fundamentals-60%25-green?style=for-the-badge)
-![Automation Testing](https://img.shields.io/badge/Automation%20Testing-40%25-orange?style=for-the-badge)
+### 🧪 QA & Testing (Beginner)
+- Manual Testing  
+- Test Case Design  
+- Bug Reporting  
+- QA Fundamentals  
+- Automation Testing Basics  
 
 ---
 
-### 🛠 Tools & Workflow
-![GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-70%25-green?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-65%25-green?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-75%25-green?style=for-the-badge)
-![npm](https://img.shields.io/badge/npm%20%2F%20Composer-60%25-green?style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-55%25-yellow?style=for-the-badge)
+### 🛠 Tools & Workflow (Basic Knowledge)
+![GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-informational?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS%20Code-informational?style=for-the-badge&logo=visual-studio-code)
+![npm](https://img.shields.io/badge/npm-informational?style=for-the-badge&logo=npm)
+![Vite](https://img.shields.io/badge/Vite-informational?style=for-the-badge&logo=vite)
 
 ---
 
@@ -74,4 +74,4 @@ Fast learner • Quality focused • Curious mind
 
 ---
 
-✨ *Growing as a developer, improving quality every day.*
+✨ *Growing as a developer and QA tester, improving every day.*
