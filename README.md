@@ -1,8 +1,6 @@
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PANTA-MAMTA&show_icons=true&theme=tokyonight" />
-</p>
+
 
 
 <p align="center">
