@@ -16,65 +16,35 @@ Fast learner • Quality focused • Curious mind
 ## 🧠 Skill Level Overview
 
 ### 💻 Programming & Frameworks
-PHP (Laravel)  
-<img src="https://progress-bar.dev/90/?title=Advanced&width=500" />
-
-JavaScript  
-<img src="https://progress-bar.dev/55/?title=Intermediate&width=500" />
-
-React  
-<img src="https://progress-bar.dev/45/?title=Beginner&width=500" />
-
-React Native  
-<img src="https://progress-bar.dev/45/?title=Beginner&width=500" />
-
-Node.js & Express  
-<img src="https://progress-bar.dev/50/?title=Intermediate&width=500" />
+![PHP](https://img.shields.io/badge/PHP%20(Laravel)-90%25-brightgreen?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-55%25-yellow?style=for-the-badge)
+![React](https://img.shields.io/badge/React-45%25-orange?style=for-the-badge)
+![React Native](https://img.shields.io/badge/React%20Native-45%25-orange?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-50%25-yellow?style=for-the-badge)
 
 ---
 
 ### 🗄 Databases
-MySQL  
-<img src="https://progress-bar.dev/85/?title=Strong&width=500" />
-
-MongoDB  
-<img src="https://progress-bar.dev/60/?title=Intermediate&width=500" />
+![MySQL](https://img.shields.io/badge/MySQL-85%25-brightgreen?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-60%25-yellow?style=for-the-badge)
 
 ---
 
 ### 🧪 QA & Testing
-Manual Testing  
-<img src="https://progress-bar.dev/80/?title=Strong&width=500" />
-
-Test Case Design  
-<img src="https://progress-bar.dev/75/?title=Strong&width=500" />
-
-Bug Reporting  
-<img src="https://progress-bar.dev/75/?title=Strong&width=500" />
-
-QA Fundamentals  
-<img src="https://progress-bar.dev/70/?title=Good&width=500" />
-
-Automation Testing (Basics)  
-<img src="https://progress-bar.dev/45/?title=Learning&width=500" />
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-80%25-brightgreen?style=for-the-badge)
+![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-75%25-green?style=for-the-badge)
+![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-75%25-green?style=for-the-badge)
+![QA Fundamentals](https://img.shields.io/badge/QA%20Fundamentals-70%25-green?style=for-the-badge)
+![Automation Testing](https://img.shields.io/badge/Automation%20Testing-45%25-orange?style=for-the-badge)
 
 ---
 
 ### 🛠 Tools & Workflow
-Git & GitHub  
-<img src="https://progress-bar.dev/85/?title=Strong&width=500" />
-
-Postman  
-<img src="https://progress-bar.dev/75/?title=Good&width=500" />
-
-VS Code  
-<img src="https://progress-bar.dev/90/?title=Expert&width=500" />
-
-npm / Composer  
-<img src="https://progress-bar.dev/70/?title=Good&width=500" />
-
-Vite  
-<img src="https://progress-bar.dev/60/?title=Intermediate&width=500" />
+![GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-85%25-brightgreen?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-75%25-green?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-90%25-brightgreen?style=for-the-badge)
+![npm](https://img.shields.io/badge/npm%20%2F%20Composer-70%25-green?style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-60%25-yellow?style=for-the-badge)
 
 ---
 
