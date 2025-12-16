@@ -80,7 +80,7 @@ Fast learner • Quality focused • Curious mind
 
 - ⚡ **Motto:** “Eat, Sleep, Code, Test, Repeat!”  
 - 😂 **Random Dev Joke:** Why do programmers prefer dark mode? Because light attracts bugs!  
-- 🕹️ **Fun Fact:** I once spent 3 hours debugging… just because a semicolon was missing!  
+- 🕹️ **Fun Fact:** I once spent 3 hours debugging… just because a semicolon was missing!😄 
 - 🎵 **Music while coding:** Lo-fi beats & coffee ☕  
 
 ---
