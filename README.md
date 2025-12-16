@@ -75,3 +75,10 @@ Fast learner • Quality focused • Curious mind
 ---
 
 ✨ *Growing as a developer and QA tester, improving every day.*
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PANTA-MAMTA/PANTA-MAMTA/output/github-contribution-grid-snake.svg" />
+</p>
+
