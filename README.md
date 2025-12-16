@@ -13,32 +13,31 @@ Fast learner • Quality focused • Curious mind
 
 ---
 
-## 🧠 Skill Level Overview (Junior / Beginner)
+## 🛠 Languages, Tools & Tech Stack
 
-### 💻 Programming & Frameworks
-- ![PHP](https://img.shields.io/badge/PHP%20(Laravel)-informational?style=for-the-badge&logo=php)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript)
-- ![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react)
-- ![React Native](https://img.shields.io/badge/React%20Native-informational?style=for-the-badge&logo=react)
-- ![Node.js](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,mysql,mongodb,git,github,vscode,postman&perline=6" />
+</p>
 
-### 🗄 Databases
-- ![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb)
+---
 
-### 🧪 QA & Testing (Beginner)
-- Manual Testing  
-- Test Case Design  
-- Bug Reporting  
-- QA Fundamentals  
-- Automation Testing Basics  
+## 🧪 QA & Testing Skills
 
-### 🛠 Tools & Workflow (Basic Knowledge)
-- ![GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-informational?style=for-the-badge&logo=github)
-- ![Postman](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=postman)
-- ![VS Code](https://img.shields.io/badge/VS%20Code-informational?style=for-the-badge&logo=visual-studio-code)
-- ![npm](https://img.shields.io/badge/npm-informational?style=for-the-badge&logo=npm)
-- ![Vite](https://img.shields.io/badge/Vite-informational?style=for-the-badge&logo=vite)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium,postman,git,github&perline=6" />
+</p>
+
+<p align="center">
+Manual Testing • Test Case Design • Bug Reporting • QA Fundamentals • Automation Basics
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,selenium&perline=6" />
+</p>
 
 ---
 
@@ -54,17 +53,20 @@ Fast learner • Quality focused • Curious mind
 
 ---
 
-## 🌱 Currently Learning
-🧪 Software Testing & QA  
-⚙️ Laravel Full Stack Development  
-🤖 Automation Testing Basics  
-
----
-
 ## 🤝 Connect With Me
-📧 **mamtpant13000@gmail.com**  
-💼 [GitHub](https://github.com/PANTA-MAMTA)  
-🔗 [LinkedIn](https://www.linkedin.com/in/er-mamata-panta-b15324234/)
+
+<p align="center">
+  <a href="https://github.com/PANTA-MAMTA">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/er-mamata-panta-b15324234/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+📧 <b>mamtpant13000@gmail.com</b>
+</p>
 
 ---
 
@@ -78,10 +80,10 @@ Fast learner • Quality focused • Curious mind
 
 ## 🎉 Fun Section
 
-- ⚡ **Motto:** “Eat, Sleep, Code, Test, Repeat!”  
-- 😂 **Random Dev Joke:** Why do programmers prefer dark mode? Because light attracts bugs!  
-- 🕹️ **Fun Fact:** I once spent 3 hours debugging… just because a semicolon was missing!😄 
-- 🎵 **Music while coding:** Lo-fi beats & coffee ☕  
+- ⚡ **Motto:** Eat, Sleep, Code, Test, Repeat  
+- 😂 **Dev Joke:** Why do programmers hate nature? Too many bugs 🐛  
+- 🕹️ **Fun Fact:** Debugged for hours… it was a missing semicolon 😄  
+- 🎵 **Coding Vibes:** Lo-fi beats & coffee ☕  
 
 ---
 
