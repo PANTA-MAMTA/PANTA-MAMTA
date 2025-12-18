@@ -65,6 +65,9 @@ Manual Testing • Test Case Design • Bug Reporting • QA Fundamentals • Au
   <a href="https://www.linkedin.com/in/er-mamata-panta-b15324234/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://www.facebook.com/mamta.panta.2025">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
 </p>
 
 <p align="center">
