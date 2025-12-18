@@ -81,12 +81,6 @@ Manual Testing • Test Case Design • Bug Reporting • QA Fundamentals • Au
 
 ---
 
-## 🎉 Fun Section
-
-- ⚡ **Motto:** Eat, Sleep, Code, Test, Repeat  
-- 😂 **Dev Joke:** Why do programmers hate nature? Too many bugs 🐛  
-- 🕹️ **Fun Fact:** Debugged for hours… it was a missing semicolon 😄  
-- 🎵 **Coding Vibes:** Lo-fi beats & coffee ☕  
 
 ---
 
