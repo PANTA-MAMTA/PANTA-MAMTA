@@ -82,6 +82,5 @@ Manual Testing • Test Case Design • Bug Reporting • QA Fundamentals • Au
 ---
 
 
----
 
 ✨ *Growing as a developer and QA tester, improving every day.*
