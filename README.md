@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./profile-banner.png" alt="Mamata Pant - Developer" width="800"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Mamata+Pant!;Junior+Software+Developer;QA+Enthusiast;Fast+Learner;Quality+Focused&center=true&width=600&height=60">
