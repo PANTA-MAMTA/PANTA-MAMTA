@@ -1,17 +1,12 @@
-
-
-
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Software+Developer;QA+Enthusiast;Fast+Learner;Quality+Focused&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Mamata+Pant!;Junior+Software+Developer;QA+Enthusiast;Fast+Learner;Quality+Focused&center=true&width=600&height=60">
 </p>
 
 <h3 align="center">Junior Software Developer | QA Enthusiast</h3>
 
 <p align="center">
 📍 Nepal <br>
-Fast learner • Quality focused • Curious mind
+Fast Learner • Quality Focused • Curious Mind
 </p>
 
 ---
@@ -47,7 +42,7 @@ Manual Testing • Test Case Design • Bug Reporting • QA Fundamentals • Au
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PANTA-MAMTA&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PANTA-MAMTA&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
@@ -56,16 +51,28 @@ Manual Testing • Test Case Design • Bug Reporting • QA Fundamentals • Au
 
 ---
 
+## 🏆 GitHub Streak & Visitors
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PANTA-MAMTA&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=PANTA-MAMTA.PANTA-MAMTA" />
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/PANTA-MAMTA">
+  <a href="https://github.com/PANTA-MAMTA" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/er-mamata-panta-b15324234/">
+  <a href="https://www.linkedin.com/in/er-mamata-panta-b15324234/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.facebook.com/mamta.panta.2025">
+  <a href="https://www.facebook.com/mamta.panta.2025" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
 </p>
@@ -76,7 +83,7 @@ Manual Testing • Test Case Design • Bug Reporting • QA Fundamentals • Au
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PANTA-MAMTA/PANTA-MAMTA/output/github-contribution-grid-snake.svg" />
@@ -84,6 +91,4 @@ Manual Testing • Test Case Design • Bug Reporting • QA Fundamentals • Au
 
 ---
 
-
-
-✨ *Growing as a developer and QA tester, improving every day.*
+✨ *Continuously growing as a Developer & QA Tester, improving every day!*  
