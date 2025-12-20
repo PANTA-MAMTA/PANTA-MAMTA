@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./profile-banner.png" alt="Mamata Pant - Developer" width="800"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Mamata+Pant!;Junior+Software+Developer;QA+Enthusiast;Fast+Learner;Quality+Focused&center=true&width=600&height=60">
 </p>
 
@@ -91,4 +95,4 @@ Manual Testing • Test Case Design • Bug Reporting • QA Fundamentals • Au
 
 ---
 
-✨ *Continuously growing as a Developer & QA Tester, improving every day!*  
+✨ *Continuously growing as a Developer & QA Tester, improving every day!*
