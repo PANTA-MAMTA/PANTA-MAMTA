@@ -1,65 +1,98 @@
 
+
+
+<h1 align="center">Hi, I'm Mamata Pant 👋</h1>
+
+<h3 align="center">
+Junior Full Stack Developer | QA-Focused Engineer
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Mamata+Pant!;Junior+Software+Developer;QA+Enthusiast;Fast+Learner;Quality+Focused&center=true&width=600&height=60">
+📍 Nepal • 🎯 Entry-Level Software Engineer  
 </p>
 
-<h3 align="center">Junior Software Developer | QA Enthusiast</h3>
-
 <p align="center">
-📍 Nepal <br>
-Fast Learner • Quality Focused • Curious Mind
+Detail-oriented Computer Engineering graduate with hands-on experience in full stack web and mobile development. Strong QA mindset with a focus on building reliable, maintainable, and well-tested applications.
 </p>
 
 ---
 
-## 🛠 Languages, Tools & Tech Stack
+## 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,mysql,mongodb,git,github,vscode,postman&perline=6" />
-</p>
+**Frontend**
+- HTML5, CSS3, Bootstrap
+- JavaScript (Basic)
+- React.js (Basic)
+- React Native (Basic)
+- Blade (Laravel)
+
+**Backend**
+- PHP (Laravel 11/12)
+- Node.js & Express (Basic)
+- REST API Development
+- Authentication & Authorization
+
+**Databases**
+- MySQL
+- MongoDB
+
+**Tools**
+- Git & GitHub
+- Postman (API Testing)
+- VS Code
+- npm, Composer
+- Laravel Migrations & Seeders
 
 ---
 
 ## 🧪 QA & Testing Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,postman,git,github&perline=6" />
-</p>
+- Manual Testing
+- Test Case Design
+- Bug Reporting & Tracking
+- API Testing (Postman)
+- QA Fundamentals
+- Automation Basics (Selenium – Learning)
 
-<p align="center">
-Manual Testing • Test Case Design • Bug Reporting • QA Fundamentals • Automation Basics
-</p>
+---
+
+## 📂 Projects
+
+### 🔹 Marriage Management System (PHP, MySQL)
+- Full-stack web application with user and admin roles  
+- Features: registration, profile management, partner search, admin approval  
+- Implemented authentication, validation, and CRUD operations  
+- Ensured role-based access control and data integrity  
+
+### 🔹 Quiz Management System (Laravel)
+- Admin-authenticated quiz platform  
+- Quiz and question CRUD functionality  
+- Implemented MVC architecture using Blade templates  
+
+### 🔹 Nepal Herbopedia (React Native, Express, MongoDB)
+- Full-stack mobile application for Nepalese medicinal plants  
+- RESTful API development with Express & MongoDB  
+- Authentication, plant listings, and detail views  
+- Integrated basic CNN-based plant identification feature  
+
+### 🔹 E-Commerce Mini Project (Laravel)
+- User authentication and product management  
+- Shopping cart using Laravel sessions  
+- Database migrations and seeders  
 
 ---
 
 ## 🌱 Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,selenium&perline=6" />
-</p>
+- Advanced Laravel
+- React.js
+- Selenium Automation Testing
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PANTA-MAMTA&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANTA-MAMTA&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Streak & Visitors
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PANTA-MAMTA&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=PANTA-MAMTA.PANTA-MAMTA" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PANTA-MAMTA&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -67,22 +100,18 @@ Manual Testing • Test Case Design • Bug Reporting • QA Fundamentals • Au
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/PANTA-MAMTA" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/er-mamata-panta-b15324234/" target="_blank">
+  <a href="https://www.linkedin.com/in/er-mamata-panta-b15324234/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.facebook.com/mamta.panta.2025" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+  <a href="https://github.com/PANTA-MAMTA">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
-<p align="center">
-📧 <b>mamtpant13000@gmail.com</b>
-</p>
+📧 **Email:** mamtpant13000@gmail.com
 
----
+
+
 
 ## 🐍 GitHub Contribution Snake
 
