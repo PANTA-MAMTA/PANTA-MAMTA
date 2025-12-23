@@ -1,91 +1,101 @@
 
-
-
-
-
-
-
-
 <h1 align="center">Mamata Pant</h1>
 
-<h3 align="center">Junior Full Stack Developer | QA-Focused Engineer</h3>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Engineer;Laravel+Developer;Building+Clean+and+Scalable+Systems" 
+  />
+</p>
 
 <p align="center">
 📍 Nepal • Entry-Level Software Engineer
 </p>
 
 <p align="center">
-Computer Engineering graduate with hands-on experience in full stack web and mobile development. Strong focus on code quality, testing, and building reliable, maintainable applications.
+Computer Engineering graduate specializing in full stack development using MERN and Laravel. I focus on system logic, clean architecture, and reliable backend workflows while ensuring frontend usability and performance.
 </p>
 
 ---
 
-## 🛠 Technical Skills
+## ⚙️ Tech Stack
 
-**Frontend**
-- HTML5, CSS3, Bootstrap
-- JavaScript (Basic)
-- React.js (Basic)
-- React Native (Basic)
-- Blade (Laravel)
-
-**Backend**
-- PHP (Laravel 11 / 12)
-- Node.js & Express (Basic)
-- REST API Development
-- Authentication & Authorization
-
-**Databases**
-- MySQL
-- MongoDB
-
-**Tools**
-- Git & GitHub
-- Postman
-- VS Code
-- npm, Composer
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,php,laravel,mongodb,mysql,git,github,postman,vscode&perline=8" />
+</p>
 
 ---
 
-## 🧪 QA & Testing
+## 🧠 How I Build Software
 
-- Manual Testing
-- Test Case Design
-- Bug Reporting
-- API Testing (Postman)
-- QA Fundamentals
-- Selenium (Basic / Learning)
+- Design APIs with clear responsibility and predictable responses  
+- Structure backend logic for maintainability and scalability  
+- Apply authentication and role-based authorization  
+- Validate data and handle edge cases carefully  
+- Test APIs and user flows before finalizing features  
 
 ---
 
 ## 📂 Projects
 
-**Marriage Management System | PHP, MySQL**  
-Full-stack web application with authentication, role-based access, and CRUD operations.
+**Marriage Management System | Laravel, MySQL**  
+Role-based full stack application with authentication, validation, and secure CRUD operations.
 
 **Quiz Management System | Laravel**  
-Admin-controlled quiz system built using Laravel MVC and Blade.
+Admin-controlled quiz platform using MVC architecture and Blade templates.
 
-**Nepal Herbopedia | React Native, Express, MongoDB**  
-Mobile application with REST APIs, authentication, and plant information system.
+**Nepal Herbopedia | MERN Stack**  
+Full stack mobile application with REST APIs, authentication, MongoDB schemas, and a basic CNN-based plant identification feature.
 
 **E-Commerce Mini Project | Laravel**  
-User authentication, product management, and cart functionality.
+Product management, authentication, and cart functionality using Laravel sessions.
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Laravel
-- React.js
-- Selenium Automation Testing
+## 🌱 Currently Improving
+- Advanced MERN architecture
+- Laravel system design
+- API performance and security
 
 ---
 
-## 📬 Contact
+## 📊 GitHub Activity
 
-📧 **mamtpant13000@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/er-mamata-panta-b15324234/)  
-💻 [GitHub](https://github.com/PANTA-MAMTA)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PANTA-MAMTA&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANTA-MAMTA&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/er-mamata-panta-b15324234/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/PANTA-MAMTA" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+<p align="center">
+📧 <b>mamtpant13000@gmail.com</b>
+</p>
+
+---
+
+<p align="cent
+
+
+
+
+
+
+
+
 
 
 
