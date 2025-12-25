@@ -36,7 +36,7 @@ Computer Engineering graduate specializing in full stack development using MERN 
 ---
 
 ## 📂 Projects
-# 🌿 Nepal NaturHerbs (https://github.com/PANTA-MAMTA/Nepal-Herbopedia-app.git) 
+## 🌿 Nepal NaturHerbs (https://github.com/PANTA-MAMTA/Nepal-Herbopedia-app.git) 
 ## AI-Powered Ayurvedic Herb Identification Mobile App
 
 Nepal NaturHerbs is an **AI-powered mobile application** designed to identify and explore **Nepalese medicinal and Ayurvedic plants** using **image recognition with a CNN model**.  
@@ -51,6 +51,57 @@ The project bridges **traditional herbal knowledge** with **modern AI technology
 - 🧭 Expo Router tab-based navigation  
 - 🔐 Secure Express + MongoDB backend  
 - 🧠 AI prediction using Python & TensorFlow  
+
+## Connectify
+# Connectify 🚀
+
+Connectify is a **full-stack social media web application** built using the **MERN stack (MongoDB, Express, React, Node.js)**. It allows users to connect with each other through posts, likes, comments, and follow/unfollow features, with a clean, responsive, and user-friendly UI.
+
+---
+
+## ✨ Features
+
+### 👤 User Authentication
+- User registration & login (JWT based)
+- Secure password hashing
+- Protected routes
+
+### 🧑‍🤝‍🧑 Social Features
+- Create, edit, and delete posts
+- Like & comment on posts
+- Follow / Unfollow users
+- User profile page
+- View posts from followed users
+
+### 🖼️ Media Support
+- Profile picture & post image support
+- Images served via backend or online image URLs
+
+### 🎨 UI / UX
+- Fully responsive design
+- Tailwind CSS for modern styling
+- Clean, minimal, and user-friendly interface
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Tailwind CSS
+- Axios
+- React Router DOM
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB + Mongoose
+- JWT Authentication
+- Multer (for image handling)
+
+---
+
+
 
 
 **Marriage Management System | Laravel, MySQL**  
