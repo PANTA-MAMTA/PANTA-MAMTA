@@ -36,6 +36,22 @@ Computer Engineering graduate specializing in full stack development using MERN 
 ---
 
 ## 📂 Projects
+# 🌿 Nepal NaturHerbs (https://github.com/PANTA-MAMTA/Nepal-Herbopedia-app.git) 
+## AI-Powered Ayurvedic Herb Identification Mobile App
+
+Nepal NaturHerbs is an **AI-powered mobile application** designed to identify and explore **Nepalese medicinal and Ayurvedic plants** using **image recognition with a CNN model**.  
+The project bridges **traditional herbal knowledge** with **modern AI technology** to support education, research, and awareness.
+
+---
+
+## 🚀 Features
+
+- 🌱 Herbal plant listing with search functionality  
+- 📸 Image-based plant identification using CNN  
+- 🧭 Expo Router tab-based navigation  
+- 🔐 Secure Express + MongoDB backend  
+- 🧠 AI prediction using Python & TensorFlow  
+
 
 **Marriage Management System | Laravel, MySQL**  
 Role-based full stack application with authentication, validation, and secure CRUD operations.
@@ -43,8 +59,6 @@ Role-based full stack application with authentication, validation, and secure CR
 **Quiz Management System | Laravel**  
 Admin-controlled quiz platform using MVC architecture and Blade templates.
 
-**Nepal Herbopedia | MERN Stack**  
-Full stack mobile application with REST APIs, authentication, MongoDB schemas, and a basic CNN-based plant identification feature.
 
 **E-Commerce Mini Project | Laravel**  
 Product management, authentication, and cart functionality using Laravel sessions.
