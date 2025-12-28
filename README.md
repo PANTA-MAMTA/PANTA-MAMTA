@@ -45,7 +45,7 @@ Computer Engineering graduate specializing in full stack development using MERN 
 
 An **AI-powered mobile application** designed to identify Nepalese medicinal and Ayurvedic plants using image recognition.
 
-* 
+
 **Features:** Image-based plant identification via CNN, secure RESTful API integration, and Expo Router navigation.
 
 
@@ -67,7 +67,7 @@ A **full-stack social media platform** featuring real-time interactions and a cl
 
 A scalable real estate listing system designed for high performance.
 
-* 
+
 **Key Contributions:** Optimized MongoDB schemas and built a library of reusable React components for the frontend.
 
 
@@ -78,7 +78,7 @@ A scalable real estate listing system designed for high performance.
 
 A management system for healthcare providers and patients.
 
-* 
+ 
 **Key Contributions:** Developed doctor and appointment management APIs and built responsive, component-based frontend interfaces.
 
 
@@ -89,7 +89,7 @@ A management system for healthcare providers and patients.
 
 A role-based full-stack application for managing event workflows.
 
-* 
+
 **Key Contributions:** Designed a normalized relational database and implemented secure CRUD operations for event data.
 
 
@@ -100,7 +100,7 @@ A role-based full-stack application for managing event workflows.
 
 A product management and shopping site built on MVC architecture.
 
-* 
+ 
 **Features:** Implemented session-based cart functionality, product management, and user authentication.
 
 
