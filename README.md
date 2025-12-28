@@ -1,18 +1,21 @@
+Based on your CV and the provided draft, here is the complete, enhanced `README.md` content for your GitHub profile. I have integrated all your projects with detailed descriptions and organized them into a professional layout.
 
-<h1 align="center">Mamata Pant</h1>
+---
+
+# Mamata Pant
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Engineer;Laravel+Developer;Building+Clean+and+Scalable+Systems" 
-  />
+<img
+src="[https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Engineer;Laravel+Developer;Building+Clean+and+Scalable+Systems](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Engineer;Laravel+Developer;Building+Clean+and+Scalable+Systems)"
+/>
 </p>
 
 <p align="center">
-📍 Nepal • Entry-Level Software Engineer
+📍 Kathmandu, Nepal • Entry-Level Software Engineer 
 </p>
 
 <p align="center">
-Computer Engineering graduate specializing in full stack development using MERN and Laravel. I focus on system logic, clean architecture, and reliable backend workflows while ensuring frontend usability and performance.
+Computer Engineering graduate specializing in full-stack development using MERN and Laravel. I focus on system logic, clean architecture, and reliable backend workflows while ensuring frontend usability and performance.
 </p>
 
 ---
@@ -20,119 +23,128 @@ Computer Engineering graduate specializing in full stack development using MERN 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,php,laravel,mongodb,mysql,git,github,postman,vscode&perline=8" />
+<img src="[https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,php,laravel,mongodb,mysql,git,github,postman,vscode&perline=8](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,php,laravel,mongodb,mysql,git,github,postman,vscode&perline=8)" />
 </p>
 
 ---
 
 ## 🧠 How I Build Software
 
-- Design APIs with clear responsibility and predictable responses  
-- Structure backend logic for maintainability and scalability  
-- Apply authentication and role-based authorization  
-- Validate data and handle edge cases carefully  
-- Test APIs and user flows before finalizing features  
+* 
+**RESTful API Architecture:** Design APIs with clear responsibility and predictable responses.
+
+
+* 
+**Scalable Systems:** Structure backend logic for maintainability and scalability using MERN and Laravel.
+
+
+* 
+**Security:** Apply authentication (JWT) and role-based authorization.
+
+
+* 
+**Database Modeling:** Validate data, handle edge cases, and design normalized relational structures.
+
+
+* 
+**Quality Assurance:** Rigorously test APIs and user flows using Postman and functional testing.
+
+
 
 ---
 
 ## 📂 Projects
-## 🌿 Nepal NaturHerbs 
-### (https://github.com/PANTA-MAMTA/Nepal-Herbopedia-app.git) 
-## AI-Powered Ayurvedic Herb Identification Mobile App
 
-Nepal NaturHerbs is an **AI-powered mobile application** designed to identify and explore **Nepalese medicinal and Ayurvedic plants** using **image recognition with a CNN model**.  
-The project bridges **traditional herbal knowledge** with **modern AI technology** to support education, research, and awareness.
+### 🌿 Nepal Herbopedia (NaturHerbs)
 
----
+**Tech:** React Native, Express.js, MongoDB, Python (CNN) **GitHub:** [Repository](https://github.com/PANTA-MAMTA/Nepal-Herbopedia-app.git) 
 
-## 🚀 Features
+An **AI-powered mobile application** designed to identify Nepalese medicinal and Ayurvedic plants using image recognition.
 
-- 🌱 Herbal plant listing with search functionality  
-- 📸 Image-based plant identification using CNN  
-- 🧭 Expo Router tab-based navigation  
-- 🔐 Secure Express + MongoDB backend  
-- 🧠 AI prediction using Python & TensorFlow  
-
-## Connectify 
-### https://github.com/PantaMamta/Connectify.git
+* 
+**Features:** Image-based plant identification via CNN, secure RESTful API integration, and Expo Router navigation.
 
 
-Connectify is a **full-stack social media web application** built using the **MERN stack (MongoDB, Express, React, Node.js)**. It allows users to connect with each other through posts, likes, comments, and follow/unfollow features, with a clean, responsive, and user-friendly UI.
+* **Impact:** Bridges traditional herbal knowledge with modern AI technology for research and awareness.
 
----
+### 🤝 Connectify
 
-## ✨ Features
+**Tech:** MERN Stack (MongoDB, Express, React, Node.js), Tailwind CSS
+**GitHub:** [Repository](https://github.com/PantaMamta/Connectify.git)
 
-### 👤 User Authentication
-- User registration & login (JWT based)
-- Secure password hashing
-- Protected routes
+A **full-stack social media platform** featuring real-time interactions and a clean UI.
 
-### 🧑‍🤝‍🧑 Social Features
-- Create, edit, and delete posts
-- Like & comment on posts
-- Follow / Unfollow users
-- User profile page
-- View posts from followed users
+* **Features:** JWT-based authentication, post CRUD operations (create/edit/delete), like/comment systems, and user follow/unfollow functionality.
+* **Media:** Profile and post image handling via Multer.
 
-### 🖼️ Media Support
-- Profile picture & post image support
-- Images served via backend or online image URLs
+### 🏠 Gharedi - Real Estate Platform
 
-### 🎨 UI / UX
-- Fully responsive design
-- Tailwind CSS for modern styling
-- Clean, minimal, and user-friendly interface
+**Tech:** MERN Stack (MongoDB, Express, React, Node.js) **GitHub:** [Repository](https://github.com/PantaMamta/Garedi) 
 
----
+A scalable real estate listing system designed for high performance.
 
-## 🛠️ Tech Stack
-
-### Frontend
-- React.js
-- Tailwind CSS
-- Axios
-- React Router DOM
-
-### Backend
-- Node.js
-- Express.js
-- MongoDB + Mongoose
-- JWT Authentication
-- Multer (for image handling)
-
----
+* 
+**Key Contributions:** Optimized MongoDB schemas and built a library of reusable React components for the frontend.
 
 
 
+### 🏥 MediConnect - Healthcare System
 
-**Marriage Management System | Laravel, MySQL**  
-Role-based full stack application with authentication, validation, and secure CRUD operations.
+**Tech:** MERN Stack (MongoDB, Express, React, Node.js) **GitHub:** [Repository](https://github.com/PantaMamta/MediConnect) 
 
-**Quiz Management System | Laravel**  
-Admin-controlled quiz platform using MVC architecture and Blade templates.
+A management system for healthcare providers and patients.
+
+* 
+**Key Contributions:** Developed doctor and appointment management APIs and built responsive, component-based frontend interfaces.
 
 
-**E-Commerce Mini Project | Laravel**  
-Product management, authentication, and cart functionality using Laravel sessions.
+
+### 💍 Marriage Management System
+
+**Tech:** PHP, MySQL **GitHub:** [Repository](https://github.com/Sammy4447/minorproject.git) 
+
+A role-based full-stack application for managing event workflows.
+
+* 
+**Key Contributions:** Designed a normalized relational database and implemented secure CRUD operations for event data.
+
+
+
+### 🛒 E-Commerce Platform
+
+**Tech:** Laravel, MySQL **GitHub:** [Repository](https://www.google.com/search?q=https://github.com/PANTA-MAMTA/e-Comm-website-Project-laravel.git) 
+
+A product management and shopping site built on MVC architecture.
+
+* 
+**Features:** Implemented session-based cart functionality, product management, and user authentication.
+
+
 
 ---
 
 ## 🌱 Currently Improving
-- Advanced MERN architecture
-- Laravel system design
-- API performance and security
+
+* Advanced MERN architecture patterns
+* Laravel system design and optimization
+* API performance and security protocols
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PANTA-MAMTA&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="[https://github-readme-stats.vercel.app/api?username=PANTA-MAMTA&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=PANTA-MAMTA&show_icons=true&theme=tokyonight&hide_border=true)" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANTA-MAMTA&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PANTA-MAMTA&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=PANTA-MAMTA&layout=compact&theme=tokyonight&hide_border=true)" />
+</p>
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+<img src="[https://raw.githubusercontent.com/PANTA-MAMTA/PANTA-MAMTA/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/PANTA-MAMTA/PANTA-MAMTA/output/github-contribution-grid-snake.svg)" />
 </p>
 
 ---
@@ -140,31 +152,19 @@ Product management, authentication, and cart functionality using Laravel session
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/er-mamata-panta-b15324234/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/PANTA-MAMTA" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+<a href="[https://www.linkedin.com/in/mamata-panta-b15324234](https://www.google.com/search?q=https://www.linkedin.com/in/mamata-panta-b15324234)" target="_blank">
+<img src="[https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=linkedin)" />
+</a>
+<a href="[https://github.com/PANTA-MAMTA](https://github.com/PANTA-MAMTA)" target="_blank">
+<img src="[https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)" />
+</a>
 </p>
 
 <p align="center">
-📧 <b>mamtpant13000@gmail.com</b>
+📧 **mamtpant13000@gmail.com** 
 </p>
 
 ---
-
-<p align="cent
-
-
-
-
-
-
-
-
-
-
 
 ## 🐍 GitHub Contribution Snake
 
@@ -175,3 +175,8 @@ Product management, authentication, and cart functionality using Laravel session
 ---
 
 ✨ *Continuously growing as a Developer & QA Tester, improving every day!*
+
+
+
+---
+
