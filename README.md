@@ -1,21 +1,18 @@
-Based on your CV and the provided draft, here is the complete, enhanced `README.md` content for your GitHub profile. I have integrated all your projects with detailed descriptions and organized them into a professional layout.
 
----
-
-# Mamata Pant
+<h1 align="center">Mamata Pant</h1>
 
 <p align="center">
-<img
-src="[https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Engineer;Laravel+Developer;Building+Clean+and+Scalable+Systems](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Engineer;Laravel+Developer;Building+Clean+and+Scalable+Systems)"
-/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Engineer;Laravel+Developer;Building+Clean+and+Scalable+Systems" 
+  />
 </p>
 
 <p align="center">
-📍 Kathmandu, Nepal • Entry-Level Software Engineer 
+📍 Nepal • Entry-Level Software Engineer
 </p>
 
 <p align="center">
-Computer Engineering graduate specializing in full-stack development using MERN and Laravel. I focus on system logic, clean architecture, and reliable backend workflows while ensuring frontend usability and performance.
+Computer Engineering graduate specializing in full stack development using MERN and Laravel. I focus on system logic, clean architecture, and reliable backend workflows while ensuring frontend usability and performance.
 </p>
 
 ---
@@ -23,33 +20,20 @@ Computer Engineering graduate specializing in full-stack development using MERN 
 ## ⚙️ Tech Stack
 
 <p align="center">
-<img src="[https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,php,laravel,mongodb,mysql,git,github,postman,vscode&perline=8](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,php,laravel,mongodb,mysql,git,github,postman,vscode&perline=8)" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,php,laravel,mongodb,mysql,git,github,postman,vscode&perline=8" />
 </p>
 
 ---
 
 ## 🧠 How I Build Software
 
-* 
-**RESTful API Architecture:** Design APIs with clear responsibility and predictable responses.
+- Design APIs with clear responsibility and predictable responses  
+- Structure backend logic for maintainability and scalability  
+- Apply authentication and role-based authorization  
+- Validate data and handle edge cases carefully  
+- Test APIs and user flows before finalizing features  
 
-
-* 
-**Scalable Systems:** Structure backend logic for maintainability and scalability using MERN and Laravel.
-
-
-* 
-**Security:** Apply authentication (JWT) and role-based authorization.
-
-
-* 
-**Database Modeling:** Validate data, handle edge cases, and design normalized relational structures.
-
-
-* 
-**Quality Assurance:** Rigorously test APIs and user flows using Postman and functional testing.
-
-
+---
 
 ---
 
@@ -141,28 +125,8 @@ A product management and shopping site built on MVC architecture.
 <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PANTA-MAMTA&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=PANTA-MAMTA&layout=compact&theme=tokyonight&hide_border=true)" />
 </p>
 
-## 🐍 GitHub Contribution Snake
 
-<p align="center">
-<img src="[https://raw.githubusercontent.com/PANTA-MAMTA/PANTA-MAMTA/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/PANTA-MAMTA/PANTA-MAMTA/output/github-contribution-grid-snake.svg)" />
-</p>
 
----
-
-## 🤝 Connect
-
-<p align="center">
-<a href="[https://www.linkedin.com/in/mamata-panta-b15324234](https://www.google.com/search?q=https://www.linkedin.com/in/mamata-panta-b15324234)" target="_blank">
-<img src="[https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=linkedin)" />
-</a>
-<a href="[https://github.com/PANTA-MAMTA](https://github.com/PANTA-MAMTA)" target="_blank">
-<img src="[https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)" />
-</a>
-</p>
-
-<p align="center">
-📧 **mamtpant13000@gmail.com** 
-</p>
 
 ---
 
@@ -177,6 +141,19 @@ A product management and shopping site built on MVC architecture.
 ✨ *Continuously growing as a Developer & QA Tester, improving every day!*
 
 
+## 🤝 Connect
 
+<p align="center">
+<a href="[https://www.linkedin.com/in/mamata-panta-b15324234](https://www.google.com/search?q=https://www.linkedin.com/in/mamata-panta-b15324234)" target="_blank">
+<img src="[https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=linkedin)" />
+</a>
+<a href="[https://github.com/PANTA-MAMTA](https://github.com/PANTA-MAMTA)" target="_blank">
+<img src="[https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)" />
+</a>
+</p>
+
+<p align="center">
+📧 **mamtpant13000@gmail.com** 
+</p
 ---
 
