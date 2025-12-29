@@ -96,7 +96,7 @@ A role-based full-stack application for managing event workflows.
 
 ### 🛒 E-Commerce Platform
 
-**Tech:** Laravel, MySQL **GitHub:** [Repository](https://www.google.com/search?q=https://github.com/PANTA-MAMTA/e-Comm-website-Project-laravel.git) 
+**Tech:** Laravel, MySQL **GitHub:** [Repository](https://github.com/PANTA-MAMTA/e-Comm-website-Project-laravel) 
 
 A product management and shopping site built on MVC architecture.
 
